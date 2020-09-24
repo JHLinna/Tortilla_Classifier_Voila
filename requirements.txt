@@ -1,6 +1,6 @@
 fastai>=0.0.11
 graphviz
-ipywidgets
+ipywidgets==7.5.1
 matplotlib
 nbdev>=0.2.12
 pandas
